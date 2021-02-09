@@ -1,7 +1,8 @@
 from p5 import core
 from p5.POO.drop import Drop
 
-drops=[]
+drops = []
+
 
 def setup():
     print("Setup START---------")
